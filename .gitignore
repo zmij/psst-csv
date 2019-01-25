@@ -37,4 +37,5 @@ build*
 # Eclipse stuff
 .project
 .cproject
+.settings*
 
