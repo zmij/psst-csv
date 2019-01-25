@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Build tree
+build*
+
+# Eclipse stuff
+.project
+.cproject
+
